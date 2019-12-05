@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://face-contour-plugin.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">955379327667</string>
+    <string name="google_api_key" translatable="false">AIzaSyCxzE_DMbv8wtKupxjvCPGJd8Umf2-dlLo</string>
+    <string name="google_app_id" translatable="false">1:955379327667:android:0a000a6f704fbc15</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCxzE_DMbv8wtKupxjvCPGJd8Umf2-dlLo</string>
+    <string name="google_storage_bucket" translatable="false">face-contour-plugin.appspot.com</string>
+    <string name="project_id" translatable="false">face-contour-plugin</string>
+</resources>
